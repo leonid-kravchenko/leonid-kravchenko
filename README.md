@@ -13,3 +13,8 @@
 <a href="https://www.linkedin.com/in/leonid-kravchenko/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+ 
+ ![blockchain-digital-handshake](https://user-images.githubusercontent.com/106053124/171986452-82ff05f9-eadc-4e7f-9e3b-d794f2b7c810.jpeg)
+
+ 
